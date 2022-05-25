@@ -11674,3 +11674,96 @@ footer{
     display: flex;
     justify-content: center;
   }
+
+  .comment-user-img {
+    width: 50%;
+    border-radius: 50px;
+  }
+
+  .user-comment-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    padding-top: 4em;
+  }
+
+  .infos-user {
+    width: 10em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .user-comment {
+    width: 40em;
+  }
+
+  .form-group {
+    width: 50em;
+  }
+
+  .new-comment {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .comment-btn {
+    display: flex;
+    height: 3em;
+    margin-top: 2em;
+    margin-left: 1em;
+  }
+
+  .orga-img1 {
+    width: 40%;
+    border-radius: 10%;
+  }
+
+  .orga-section1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2em;
+  }
+
+  .orga-body1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+  }
+
+  .orga-body1 button {
+    width: 20%;
+    align-self: center;
+    margin-top: 2em;
+    background-color: rgb(255, 171, 103);
+  }
+
+  .orga-section2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2em;
+    background-color: #78c2ad;
+  }
+
+  .orga-body2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    width: 50%;
+  }
+
+  .orga-body2 button {
+    width: 20%;
+    align-self: center;
+    margin-top: 2em;
+    border: solid white;
+
+  }
